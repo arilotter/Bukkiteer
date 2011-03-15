@@ -1,0 +1,373 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXAppleScriptBuildPhase section */
+		257572C4072881A4000BE9CA /* AppleScript */ = {
+			isa = PBXAppleScriptBuildPhase;
+			buildActionMask = 2147483647;
+			contextName = "";
+			files = (
+				257572C5072881A4000BE9CA /* Bukkiteer.applescript in AppleScript */,
+				02697952132724C500177047 /* launchServer.applescript in AppleScript */,
+				0269795F132724F700177047 /* pluginsFolder.applescript in AppleScript */,
+				026979A41327CC0D00177047 /* killOnClose.applescript in AppleScript */,
+				020D1C2F132844DC003FE234 /* oldServer.applescript in AppleScript */,
+				029D5F6C1328779300ED57AC /* findPlugins.applescript in AppleScript */,
+				026B844A1329612F001CEF6E /* prefMonsters.applescript in AppleScript */,
+				026B844E1329613C001CEF6E /* prefAnimals.applescript in AppleScript */,
+				026B845213296152001CEF6E /* prefPvp.applescript in AppleScript */,
+				02347E20132AE30D00F835AA /* prefSpawn.applescript in AppleScript */,
+				02347E26132BC8DC00F835AA /* launchPrefs.applescript in AppleScript */,
+				025BCC7F132D24850053EF51 /* prefWindow.applescript in AppleScript */,
+			);
+			isSharedContext = 0;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXAppleScriptBuildPhase section */
+
+/* Begin PBXBuildFile section */
+		020D1C2F132844DC003FE234 /* oldServer.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 020D1C2E132844DC003FE234 /* oldServer.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		02347E20132AE30D00F835AA /* prefSpawn.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02347E1F132AE30D00F835AA /* prefSpawn.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		02347E26132BC8DC00F835AA /* launchPrefs.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02347E25132BC8DC00F835AA /* launchPrefs.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		025BCC7F132D24850053EF51 /* prefWindow.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 025BCC7E132D24850053EF51 /* prefWindow.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		025BCC98132D262B0053EF51 /* Bukkiteer.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 025BCC97132D262B0053EF51 /* Bukkiteer.rtf */; };
+		02697952132724C500177047 /* launchServer.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02697951132724C400177047 /* launchServer.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		0269795F132724F700177047 /* pluginsFolder.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 0269795E132724F700177047 /* pluginsFolder.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		026979A41327CC0D00177047 /* killOnClose.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 026979A31327CC0D00177047 /* killOnClose.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		026B842913295914001CEF6E /* prefPane.xib in Resources */ = {isa = PBXBuildFile; fileRef = 026B842813295914001CEF6E /* prefPane.xib */; };
+		026B844A1329612F001CEF6E /* prefMonsters.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 026B84491329612F001CEF6E /* prefMonsters.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		026B844E1329613C001CEF6E /* prefAnimals.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 026B844D1329613C001CEF6E /* prefAnimals.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		026B845213296152001CEF6E /* prefPvp.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 026B845113296152001CEF6E /* prefPvp.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		029D5F6C1328779300ED57AC /* findPlugins.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 029D5F6B1328779300ED57AC /* findPlugins.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		02D9BB7F13287C8200B33B72 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 02D9BB7E13287C8200B33B72 /* icon.icns */; };
+		257572C5072881A4000BE9CA /* Bukkiteer.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		257572C8072881A4000BE9CA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		257572CA072881A4000BE9CA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		257572CC072881A4000BE9CA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		257572CD072881A4000BE9CA /* AppleScriptKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */; };
+		60A014C40DBD2AA20071D9A8 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 60A014C20DBD2AA20071D9A8 /* MainMenu.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		020D1C2E132844DC003FE234 /* oldServer.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = oldServer.applescript; sourceTree = "<group>"; };
+		02347E1F132AE30D00F835AA /* prefSpawn.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = prefSpawn.applescript; sourceTree = "<group>"; };
+		02347E25132BC8DC00F835AA /* launchPrefs.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = launchPrefs.applescript; sourceTree = "<group>"; };
+		025BCC7E132D24850053EF51 /* prefWindow.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = prefWindow.applescript; sourceTree = "<group>"; };
+		025BCC97132D262B0053EF51 /* Bukkiteer.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Bukkiteer.rtf; sourceTree = "<group>"; };
+		02697951132724C400177047 /* launchServer.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = launchServer.applescript; sourceTree = "<group>"; };
+		0269795E132724F700177047 /* pluginsFolder.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = pluginsFolder.applescript; sourceTree = "<group>"; };
+		026979A31327CC0D00177047 /* killOnClose.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = killOnClose.applescript; sourceTree = "<group>"; };
+		026B842813295914001CEF6E /* prefPane.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = prefPane.xib; sourceTree = "<group>"; };
+		026B84491329612F001CEF6E /* prefMonsters.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = prefMonsters.applescript; sourceTree = "<group>"; };
+		026B844D1329613C001CEF6E /* prefAnimals.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = prefAnimals.applescript; sourceTree = "<group>"; };
+		026B845113296152001CEF6E /* prefPvp.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = prefPvp.applescript; sourceTree = "<group>"; };
+		029D5F6B1328779300ED57AC /* findPlugins.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = findPlugins.applescript; sourceTree = "<group>"; };
+		02D9BB7E13287C8200B33B72 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = icon.icns; path = /Applications/Bukkiteer/Bukkiteer.app/Contents/Resources/icon.icns; sourceTree = "<absolute>"; };
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		257572D5072881A4000BE9CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		257572D6072881A4000BE9CA /* Bukkiteer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bukkiteer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		60A014C30DBD2AA20071D9A8 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		65359356078DD41800E8BB2F /* AppleScriptKit.sdef */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.sdef; name = AppleScriptKit.sdef; path = /System/Library/Frameworks/AppleScriptKit.framework/Versions/A/Resources/AppleScriptKit.sdef; sourceTree = "<absolute>"; };
+		DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppleScriptKit.framework; path = /System/Library/Frameworks/AppleScriptKit.framework; sourceTree = "<absolute>"; };
+		DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.applescript; path = Bukkiteer.applescript; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		257572CB072881A4000BE9CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				257572CC072881A4000BE9CA /* Cocoa.framework in Frameworks */,
+				257572CD072881A4000BE9CA /* AppleScriptKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		026B8440132960EB001CEF6E /* PrefPane */ = {
+			isa = PBXGroup;
+			children = (
+				026B845113296152001CEF6E /* prefPvp.applescript */,
+				026B844D1329613C001CEF6E /* prefAnimals.applescript */,
+				026B84491329612F001CEF6E /* prefMonsters.applescript */,
+				026B842813295914001CEF6E /* prefPane.xib */,
+				02347E1F132AE30D00F835AA /* prefSpawn.applescript */,
+				025BCC7E132D24850053EF51 /* prefWindow.applescript */,
+			);
+			name = PrefPane;
+			sourceTree = "<group>";
+		};
+		080E96DDFE201D6D7F000001 /* Scripts */ = {
+			isa = PBXGroup;
+			children = (
+				DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */,
+			);
+			name = Scripts;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+				DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				257572D6072881A4000BE9CA /* Bukkiteer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* Bukkiteer */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Scripts */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				257572D5072881A4000BE9CA /* Info.plist */,
+			);
+			name = Bukkiteer;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				026B8440132960EB001CEF6E /* PrefPane */,
+				02D9BB7E13287C8200B33B72 /* icon.icns */,
+				60A014C20DBD2AA20071D9A8 /* MainMenu.xib */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				65359356078DD41800E8BB2F /* AppleScriptKit.sdef */,
+				02697951132724C400177047 /* launchServer.applescript */,
+				0269795E132724F700177047 /* pluginsFolder.applescript */,
+				020D1C2E132844DC003FE234 /* oldServer.applescript */,
+				026979A31327CC0D00177047 /* killOnClose.applescript */,
+				029D5F6B1328779300ED57AC /* findPlugins.applescript */,
+				02347E25132BC8DC00F835AA /* launchPrefs.applescript */,
+				025BCC97132D262B0053EF51 /* Bukkiteer.rtf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		257572C3072881A4000BE9CA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		257572C2072881A4000BE9CA /* Bukkiteer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E71A80508A2C90C0034BBD9 /* Build configuration list for PBXNativeTarget "Bukkiteer" */;
+			buildPhases = (
+				257572C3072881A4000BE9CA /* Headers */,
+				257572C4072881A4000BE9CA /* AppleScript */,
+				257572C6072881A4000BE9CA /* Resources */,
+				257572C9072881A4000BE9CA /* Sources */,
+				257572CB072881A4000BE9CA /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Bukkiteer;
+			productInstallPath = "$(HOME)/Applications";
+			productName = Bukkiteer;
+			productReference = 257572D6072881A4000BE9CA /* Bukkiteer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 4E71A80908A2C90C0034BBD9 /* Build configuration list for PBXProject "Bukkiteer" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* Bukkiteer */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				257572C2072881A4000BE9CA /* Bukkiteer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		257572C6072881A4000BE9CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				257572C8072881A4000BE9CA /* InfoPlist.strings in Resources */,
+				60A014C40DBD2AA20071D9A8 /* MainMenu.xib in Resources */,
+				02D9BB7F13287C8200B33B72 /* icon.icns in Resources */,
+				026B842913295914001CEF6E /* prefPane.xib in Resources */,
+				025BCC98132D262B0053EF51 /* Bukkiteer.rtf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		257572C9072881A4000BE9CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				257572CA072881A4000BE9CA /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		60A014C20DBD2AA20071D9A8 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				60A014C30DBD2AA20071D9A8 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4E71A80608A2C90C0034BBD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = Bukkiteer;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		4E71A80708A2C90C0034BBD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_OSAFLAGS = "-x";
+				PRODUCT_NAME = Bukkiteer;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		4E71A80A08A2C90C0034BBD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		4E71A80B08A2C90C0034BBD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4E71A80508A2C90C0034BBD9 /* Build configuration list for PBXNativeTarget "Bukkiteer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E71A80608A2C90C0034BBD9 /* Debug */,
+				4E71A80708A2C90C0034BBD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E71A80908A2C90C0034BBD9 /* Build configuration list for PBXProject "Bukkiteer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E71A80A08A2C90C0034BBD9 /* Debug */,
+				4E71A80B08A2C90C0034BBD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
