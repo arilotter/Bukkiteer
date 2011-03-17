@@ -9,7 +9,11 @@ on clicked theObject
 	if x = "java" then
 		tell application "Terminal"
 			do script "stop" in window 1
-			delay 3
+		end tell
+		repeat while x = "java"
+			set x to do shell script "ps cax | awk '/java/{print $5}'"
+		end repeat
+		tell application "Terminal"
 			quit
 		end tell
 		quit me

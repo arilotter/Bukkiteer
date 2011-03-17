@@ -1,7 +1,7 @@
 TBukkiteer
 v7
 r0
-t321736934.308301
+t322068910.136104
 cCheck dependencies
 cProcessInfoPlistFile "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Info.plist" Info.plist
 cOSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/Bukkiteer.scpt Bukkiteer.applescript
@@ -101,7 +101,7 @@ t1299715955
 s3624
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app
-t1300044134
+t1300376051
 s102
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app.dSYM
@@ -145,16 +145,16 @@ t1299726428
 s472
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/killOnClose.scpt
-t1299726254
-s1176
+t1300376051
+s1264
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/launchPrefs.scpt
 t1300032894
 s436
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/launchServer.scpt
-t1299882566
-s3840
+t1300375477
+s3936
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/mainWindow.scpt
 t2
@@ -165,7 +165,7 @@ t1299715953
 s196
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/pluginsFolder.scpt
-t1299871483
+t1300315109
 s1182
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/prefAnimals.scpt
@@ -210,9 +210,9 @@ t1299726424
 s209
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/killOnClose.applescript
-c000000004D783FAB0000000000000172
-t1299726251
-s370
+c000000004D8229F100000000000001F4
+t1300376049
+s500
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/launchPrefs.applescript
 c000000004D7CED7900000000000000B9
@@ -220,9 +220,9 @@ t1300032889
 s185
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/launchServer.applescript
-c000000004D7A79D400000000000006F4
-t1299872212
-s1780
+c000000004D81410500000000000007B5
+t1300316421
+s1973
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/main.m
 c000000004D76AB0300000000000000C5
@@ -240,8 +240,8 @@ t1299713375
 s1016
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/pluginsFolder.applescript
-c000000004D7A76F800000000000001C5
-t1299871480
+c000000004D813BD400000000000001C5
+t1300315092
 s453
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/prefAnimals.applescript
@@ -291,7 +291,7 @@ s938
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies321736934#321736934#0(0"0(0#1#0"3343187568374212096#0"0#
+lSLF07#2@18"Check dependencies322068910#322068910#0(0"0(0#1#0"8607503872#0"0#
 
 CCompileC build/Bukkiteer.build/Release/Bukkiteer.build/Objects-normal/i386/main.o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s321408754.687344
@@ -431,16 +431,16 @@ oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdd
 lSLF07#2@31"Compile findPlugins.applescript321419228#321419228#0(545"2011-03-09 22:07:08.060 osacompile[3960:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#76"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/findPlugins.applescript8606569024#398"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U findPlugins.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/findPlugins.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/findPlugins.applescript"0#
 
 COSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/killOnClose.scpt killOnClose.applescript
-s321419054.253049
-e321419054.345681
+s322068851.072568
+e322068851.426426
 r1
 xOSACompile
 xbuild/Release/Bukkiteer.app/Contents/Resources/Scripts/killOnClose.scpt
 xkillOnClose.applescript
-o2011-03-09 22:04:14.293 osacompile[3889:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o2011-03-17 11:34:11.352 osacompile[69883:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
 o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
 oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
-lSLF07#2@31"Compile killOnClose.applescript321419054#321419054#0(545"2011-03-09 22:04:14.293 osacompile[3889:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#76"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/killOnClose.applescript8608120800#398"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U killOnClose.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/killOnClose.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/killOnClose.applescript"0#
+lSLF07#2@31"Compile killOnClose.applescript322068851#322068851#0(546"2011-03-17 11:34:11.352 osacompile[69883:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#76"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/killOnClose.applescript8607340256#398"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U killOnClose.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/killOnClose.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/killOnClose.applescript"0#
 
 COSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/launchPrefs.scpt launchPrefs.applescript
 s321725694.892947
@@ -455,16 +455,16 @@ oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdd
 lSLF07#2@31"Compile launchPrefs.applescript321725694#321725694#0(546"2011-03-13 12:14:54.935 osacompile[32934:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#76"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/launchPrefs.applescript8608033760#398"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U launchPrefs.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/launchPrefs.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/launchPrefs.applescript"0#
 
 COSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/launchServer.scpt launchServer.applescript
-s321575366.664400
-e321575366.908822
+s322068277.107812
+e322068277.277702
 r1
 xOSACompile
 xbuild/Release/Bukkiteer.app/Contents/Resources/Scripts/launchServer.scpt
 xlaunchServer.applescript
-o2011-03-11 17:29:26.775 osacompile[17317:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o2011-03-17 11:24:37.203 osacompile[69710:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
 o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
 oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
-lSLF07#2@32"Compile launchServer.applescript321575366#321575366#0(546"2011-03-11 17:29:26.775 osacompile[17317:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#77"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/launchServer.applescript31244216342741072#401"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U launchServer.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/launchServer.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/launchServer.applescript"0#
+lSLF07#2@32"Compile launchServer.applescript322068277#322068277#0(546"2011-03-17 11:24:37.203 osacompile[69710:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#77"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/launchServer.applescript31244216342741072#401"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U launchServer.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/launchServer.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/launchServer.applescript"0#
 
 COSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/mainWindow.scpt mainWindow.applescript
 r0
@@ -482,16 +482,16 @@ oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdd
 lSLF07#2@29"Compile oldServer.applescript321408753#321408753#0(545"2011-03-09 19:12:33.571 osacompile[2028:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#74"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/oldServer.applescript8611568288#392"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U oldServer.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/oldServer.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/oldServer.applescript"0#
 
 COSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/pluginsFolder.scpt pluginsFolder.applescript
-s321564283.444788
-e321564283.529204
+s322007909.070094
+e322007909.303333
 r1
 xOSACompile
 xbuild/Release/Bukkiteer.app/Contents/Resources/Scripts/pluginsFolder.scpt
 xpluginsFolder.applescript
-o2011-03-11 14:24:43.483 osacompile[15977:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o2011-03-16 18:38:29.155 osacompile[63619:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
 o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
 oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
-lSLF07#2@33"Compile pluginsFolder.applescript321564283#321564283#0(546"2011-03-11 14:24:43.483 osacompile[15977:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#78"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/pluginsFolder.applescript8607211232#404"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U pluginsFolder.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/pluginsFolder.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/pluginsFolder.applescript"0#
+lSLF07#2@33"Compile pluginsFolder.applescript322007909#322007909#0(546"2011-03-16 18:38:29.155 osacompile[63619:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#78"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/pluginsFolder.applescript8607042880#404"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U pluginsFolder.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/pluginsFolder.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/pluginsFolder.applescript"0#
 
 COSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/prefAnimals.scpt prefAnimals.applescript
 s321736934.121874
@@ -588,10 +588,10 @@ xInfo.plist
 lSLF07#2@18"Process Info.plist321420450#321420450#0(0"0(0#0#63"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Info.plist8388353890227204096#358"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    builtin-infoPlistUtility Info.plist -genpkginfo "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Info.plist"0#
 
 CTouch "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app"
-s321736934.270471
-e321736934.308247
+s322068851.427332
+e322068851.430116
 r1
 xTouch
 x/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app
-lSLF07#2@86"Touch /Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app321736934#321736934#0(0"0(0#0#0"8602284896#167"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/touch -c "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app"0#
+lSLF07#2@86"Touch /Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app322068851#322068851#0(0"0(0#0#0"8607987616#167"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/touch -c "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app"0#
 
