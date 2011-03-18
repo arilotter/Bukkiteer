@@ -16,7 +16,7 @@ on clicked theObject
 			if not (exists folder server_data) then make new folder at (POSIX file "/Applications/Bukkiteer") with properties {name:"server_data"}
 			tell application "Terminal"
 				activate
-				do script "cd /Applications/Bukkiteer/server_data; clear; curl -O http://ci.bukkit.org/job/dev-CraftBukkit/lastSuccessfulBuild/artifact/target/craftbukkit-0.0.1-SNAPSHOT.jar; mv craftbukkit-0.0.1-SNAPSHOT.jar craftbukkit.jar; clear; java -Xmx1G -Xms1G -jar craftbukkit.jar" in front window
+				do script "cd /Applications/Bukkiteer/server_data; clear; curl -O http://ci.bukkit.org/job/dev-CraftBukkit/lastSuccessfulBuild/artifact/target/craftbukkit-0.0.1-SNAPSHOT.jar; mv craftbukkit-0.0.1-SNAPSHOT.jar craftbukkit.jar; clear; java -Xmx1G -Xms1G -jar craftbukkit.jar"
 			end tell
 		end tell
 	else if button returned of server_update is "No" then
@@ -27,13 +27,12 @@ on clicked theObject
 					if not (exists folder server_data) then make new folder at (POSIX file "/Applications/Bukkiteer") with properties {name:"server_data"}
 					tell application "Terminal"
 						activate
-						do script "cd /Applications/Bukkiteer/server_data; clear; curl -O http://ci.bukkit.org/job/dev-CraftBukkit/lastSuccessfulBuild/artifact/target/craftbukkit-0.0.1-SNAPSHOT.jar; mv craftbukkit-0.0.1-SNAPSHOT.jar craftbukkit.jar; clear; java -Xmx1G -Xms1G -jar craftbukkit.jar" in front window
-					end tell
+						do script "cd /Applications/Bukkiteer/server_data; clear; curl -O http://ci.bukkit.org/job/dev-CraftBukkit/lastSuccessfulBuild/artifact/target/craftbukkit-0.0.1-SNAPSHOT.jar; mv craftbukkit-0.0.1-SNAPSHOT.jar craftbukkit.jar; clear; java -Xmx1G -Xms1G -jar craftbukkit.jar"					end tell
 				end tell
 			else
 				tell application "Terminal"
 					activate
-					do script "cd /Applications/Bukkiteer/server_data; clear; java -Xmx1G -Xms1G -jar craftbukkit.jar" in front window
+					do script "cd /Applications/Bukkiteer/server_data; clear; java -Xmx1G -Xms1G -jar craftbukkit.jar"
 				end tell
 			end if
 		end tell
