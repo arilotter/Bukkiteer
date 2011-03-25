@@ -13,6 +13,11 @@ on launched theObject
 	set spawnprotection to ""
 	set prefPaneNibLoaded to false
 end launched
-on should close theObject
-	(*Add your script here.*)
-end should close
+on idle
+	set x to do shell script "ps cax | awk '/java/{print $5}'"
+	if x = "java" then
+		set title of button "launchServer" of window 1 to "Stop Server"
+	else
+		set title of button "launchServer" of window 1 to "Start Server"
+	end if
+end idle

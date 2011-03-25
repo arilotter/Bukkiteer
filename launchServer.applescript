@@ -1,10 +1,8 @@
 -- launchServer.applescript
 -- Bukkiteer
 
--- Created by Ari on 11-03-08.
+-- Created by Ari on 11-03-24.
 -- Copyright 2011 __MyCompanyName__. All rights reserved.
-
-
 
 
 on clicked theObject
@@ -27,7 +25,8 @@ on clicked theObject
 					if not (exists folder server_data) then make new folder at (POSIX file "/Applications/Bukkiteer") with properties {name:"server_data"}
 					tell application "Terminal"
 						activate
-						do script "cd /Applications/Bukkiteer/server_data; clear; curl -O http://ci.bukkit.org/job/dev-CraftBukkit/lastSuccessfulBuild/artifact/target/craftbukkit-0.0.1-SNAPSHOT.jar; mv craftbukkit-0.0.1-SNAPSHOT.jar craftbukkit.jar; clear; java -Xmx1G -Xms1G -jar craftbukkit.jar"					end tell
+						do script "cd /Applications/Bukkiteer/server_data; clear; curl -O http://ci.bukkit.org/job/dev-CraftBukkit/lastSuccessfulBuild/artifact/target/craftbukkit-0.0.1-SNAPSHOT.jar; mv craftbukkit-0.0.1-SNAPSHOT.jar craftbukkit.jar; clear; java -Xmx1G -Xms1G -jar craftbukkit.jar"
+					end tell
 				end tell
 			else
 				tell application "Terminal"

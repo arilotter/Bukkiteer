@@ -12,7 +12,7 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="445"/>
+			<integer value="446"/>
 			<integer value="280"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
@@ -589,6 +589,7 @@
 							<reference ref="22733214"/>
 						</object>
 						<reference key="parent" ref="457136004"/>
+						<string key="objectName">launchServer</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">437</int>
@@ -603,6 +604,7 @@
 							<reference ref="247159102"/>
 						</object>
 						<reference key="parent" ref="457136004"/>
+						<string key="objectName">pluginsFolder</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">439</int>
@@ -617,6 +619,7 @@
 							<reference ref="869080451"/>
 						</object>
 						<reference key="parent" ref="457136004"/>
+						<string key="objectName">findPlugins</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">441</int>
@@ -631,6 +634,7 @@
 							<reference ref="303583656"/>
 						</object>
 						<reference key="parent" ref="457136004"/>
+						<string key="objectName">quitButton</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">448</int>
@@ -645,6 +649,7 @@
 							<reference ref="522981297"/>
 						</object>
 						<reference key="parent" ref="457136004"/>
+						<string key="objectName">prefsButton</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">452</int>
@@ -655,6 +660,7 @@
 						<int key="objectID">453</int>
 						<reference key="object" ref="422792577"/>
 						<reference key="parent" ref="457136004"/>
+						<string key="objectName">doingSomething</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">454</int>
@@ -819,7 +825,7 @@
 								<string>Clicked</string>
 							</object>
 							<string key="appleScriptScriptName">launchServer.applescript</string>
-							<string key="appleScriptObjectName">Server.applescript</string>
+							<string key="appleScriptObjectName">launchServer</string>
 						</object>
 					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -839,7 +845,7 @@
 								<string>Clicked</string>
 							</object>
 							<string key="appleScriptScriptName">pluginsFolder.applescript</string>
-							<string key="appleScriptObjectName"/>
+							<string key="appleScriptObjectName">pluginsFolder</string>
 						</object>
 					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -899,7 +905,7 @@
 								<string>Clicked</string>
 							</object>
 							<string key="appleScriptScriptName">killOnClose.applescript</string>
-							<string key="appleScriptObjectName">Quit</string>
+							<string key="appleScriptObjectName">quitButton</string>
 						</object>
 					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -919,7 +925,7 @@
 								<string>Clicked</string>
 							</object>
 							<string key="appleScriptScriptName">launchPrefs.applescript</string>
-							<string key="appleScriptObjectName">prefsOpen</string>
+							<string key="appleScriptObjectName">prefsButton</string>
 						</object>
 					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -936,7 +942,7 @@
 							<int key="appleScriptScriptScope">0</int>
 							<reference key="appleScriptEventHandlerNames" ref="328754663"/>
 							<string key="appleScriptScriptName">prefsRead.applescript</string>
-							<nil key="appleScriptObjectName"/>
+							<string key="appleScriptObjectName">doingSomethings</string>
 						</object>
 					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -1425,10 +1431,6 @@
 		<int key="IBDocument.localizationMode">0</int>
 		<string key="IBDocument.TargetRuntimeIdentifier">IBCocoaFramework</string>
 		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDependencies">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaPlugin.macosx</string>
-			<integer value="1050" key="NS.object.0"/>
-		</object>
-		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDependencyDefaults">
 			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaPlugin.macosx</string>
 			<integer value="1050" key="NS.object.0"/>
 		</object>
