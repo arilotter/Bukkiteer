@@ -12,8 +12,8 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="446"/>
 			<integer value="280"/>
+			<integer value="446"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -228,7 +228,7 @@
 							<object class="NSButtonCell" key="NSCell" id="22733214">
 								<int key="NSCellFlags">67239424</int>
 								<int key="NSCellFlags2">134217728</int>
-								<string key="NSContents">Launch Server</string>
+								<string key="NSContents">Start Server</string>
 								<object class="NSFont" key="NSSupport" id="870397753">
 									<string key="NSName">LucidaGrande</string>
 									<double key="NSSize">13</double>
@@ -762,6 +762,7 @@
 							<object class="NSArray" key="appleScriptEventHandlerNames">
 								<bool key="EncodedWithXMLCoder">YES</bool>
 								<string>DidFinishLaunching</string>
+								<string>Idle</string>
 							</object>
 							<string key="appleScriptScriptName">Bukkiteer.applescript</string>
 							<string key="appleScriptObjectName">bukkiteerApp</string>

@@ -1,7 +1,7 @@
 TBukkiteer
 v7
 r0
-t322706237.613993
+t322928261.029655
 cCheck dependencies
 cProcessInfoPlistFile "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Info.plist" Info.plist
 cOSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/Bukkiteer.scpt Bukkiteer.applescript
@@ -62,9 +62,9 @@ t1243557219
 s42464
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Bukkiteer.applescript
-c000000004D8BE3B6000000000000024D
-t1301013430
-s589
+c000000004D8F470300000000000002D5
+t1301235459
+s725
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Bukkiteer.rtf
 c000000004D83F9E20000000000000FE0
@@ -77,9 +77,9 @@ t1300494818
 s206
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib
-c000000004D8BE183000000000000FE82
-t1301012867
-s65154
+c000000004D8F4624000000000000FEA0
+t1301235236
+s65184
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Bukkiteer.build/Release/Bukkiteer.build/Objects-normal/i386/Bukkiteer
 t1300745480
@@ -108,7 +108,7 @@ t1300745479
 s3624
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app
-t1301013437
+t1301235461
 s102
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app.dSYM
@@ -136,16 +136,16 @@ t1300494818
 s206
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/English.lproj/MainMenu.nib
-t1301012880
-s11424
+t1301235269
+s11440
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Info.plist
 t2
 s0
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/Bukkiteer.scpt
-t1301013437
-s1206
+t1301235461
+s1382
 
 N/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/findPlugins.scpt
 t1300494818
@@ -325,7 +325,7 @@ s938
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies322706237#322706237#0(0"0(0#1#0"8609203552#0"0#
+lSLF07#2@18"Check dependencies322928260#322928260#0(0"0(0#1#0"8606221696#0"0#
 
 CCompileC build/Bukkiteer.build/Release/Bukkiteer.build/Objects-normal/i386/main.o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s322438278.253470
@@ -354,14 +354,14 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@67"Compile /Volumes/Data and home/Users/ari/Documents/Bukkiteer/main.m322438278#322438279#0(0"0(0#0#59"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/main.m8611218080#1024"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -mtune=G5 -fvisibility=hidden -gdwarf-2 "-I/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Bukkiteer.build/Release/Bukkiteer.build/Bukkiteer.hmap" "-F/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release" "-I/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/include" "-I/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Bukkiteer.build/Release/Bukkiteer.build/DerivedSources/ppc" "-I/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Bukkiteer.build/Release/Bukkiteer.build/DerivedSources" -c "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/main.m" -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Bukkiteer.build/Release/Bukkiteer.build/Objects-normal/ppc/main.o"0#
 
 CCompileXIB "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib"
-s322705679.672169
-e322705680.284981
+s322928069.437575
+e322928069.809403
 r1
 xCompileXIB
 x/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib
 o/* com.apple.ibtool.document.notices */
 o/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib:451: note: This view is clipping its content.
-lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib322705679#322705680#0(166"/* com.apple.ibtool.document.notices *//Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib:451: note: This view is clipping its content.1(13@34"This view is clipping its content.322705680#18446744073709551615#0#0(6@79"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib322705667#451#0#451#0#0"0(0#0#79"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib8604497696#388"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/English.lproj/MainMenu.nib" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib" --sdk ""0#
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib322928069#322928069#0(166"/* com.apple.ibtool.document.notices *//Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib:451: note: This view is clipping its content.1(13@34"This view is clipping its content.322928069#18446744073709551615#0#0(6@79"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib322928036#451#0#451#0#0"0(0#0#79"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib8601125440#388"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/English.lproj/MainMenu.nib" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/English.lproj/MainMenu.xib" --sdk ""0#
 
 CCompileXIB "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/prefPane.xib"
 s322438277.858931
@@ -450,16 +450,16 @@ xppc
 lSLF07#2@132"Link /Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Bukkiteer.build/Release/Bukkiteer.build/Objects-normal/ppc/Bukkiteer322438279#322438280#0(0"0(0#0#0"8617366368#574"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /Developer/usr/bin/gcc-4.2 -arch ppc "-L/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release" "-F/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release" -filelist "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Bukkiteer.build/Release/Bukkiteer.build/Objects-normal/ppc/Bukkiteer.LinkFileList" -framework Cocoa -framework AppleScriptKit -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Bukkiteer.build/Release/Bukkiteer.build/Objects-normal/ppc/Bukkiteer"0#
 
 COSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/Bukkiteer.scpt Bukkiteer.applescript
-s322706237.193766
-e322706237.608912
+s322928260.796414
+e322928261.016097
 r1
 xOSACompile
 xbuild/Release/Bukkiteer.app/Contents/Resources/Scripts/Bukkiteer.scpt
 xBukkiteer.applescript
-o2011-03-24 20:37:17.488 osacompile[52175:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o2011-03-27 10:17:40.915 osacompile[84323:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
 o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
 oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
-lSLF07#2@29"Compile Bukkiteer.applescript322706237#322706237#0(546"2011-03-24 20:37:17.488 osacompile[52175:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#74"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Bukkiteer.applescript8610397568#392"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U Bukkiteer.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/Bukkiteer.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Bukkiteer.applescript"0#
+lSLF07#2@29"Compile Bukkiteer.applescript322928260#322928261#0(546"2011-03-27 10:17:40.915 osacompile[84323:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#74"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Bukkiteer.applescript8606564704#392"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U Bukkiteer.applescript -x -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Resources/Scripts/Bukkiteer.scpt" "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Bukkiteer.applescript"0#
 
 COSACompile build/Release/Bukkiteer.app/Contents/Resources/Scripts/findPlugins.scpt findPlugins.applescript
 s321419228.023779
@@ -655,10 +655,10 @@ xInfo.plist
 lSLF07#2@18"Process Info.plist322438275#322438275#0(0"0(0#0#63"/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Info.plist8604204864#358"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    builtin-infoPlistUtility Info.plist -genpkginfo "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app/Contents/Info.plist"0#
 
 CTouch "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app"
-s322706237.609909
-e322706237.613938
+s322928261.017021
+e322928261.029612
 r1
 xTouch
 x/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app
-lSLF07#2@86"Touch /Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app322706237#322706237#0(0"0(0#0#0"8610318528#167"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/touch -c "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app"0#
+lSLF07#2@86"Touch /Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app322928261#322928261#0(0"0(0#0#0"8607022432#167"    cd "/Volumes/Data and home/Users/ari/Documents/Bukkiteer"    /usr/bin/touch -c "/Volumes/Data and home/Users/ari/Documents/Bukkiteer/build/Release/Bukkiteer.app"0#
 
