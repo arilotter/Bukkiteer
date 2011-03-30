@@ -3,15 +3,27 @@
 
 --  Created by Ari on 11-03-08.
 --  Copyright 2011 __MyCompanyName__. All rights reserved.
+
+property prefsLocation : ""
+property prefsFile : ""
+property monsters : ""
+property animals : ""
+property maxplayers : ""
+property pvp : ""
+property spawnprotection : ""
+property prefUpdate : ""
+property prefAutoUpdate : ""
+
 on launched theObject
-	set prefsLocation to ""
-	set prefsFile to ""
-	set monsters to ""
-	set animals to ""
-	set maxplayers to ""
-	set pvp to ""
-	set spawnprotection to ""
 	set prefPaneNibLoaded to false
+	tell user defaults
+		make new default entry at end of default entries with properties {name:"prefUpdate", contents:prefUpdate}
+		make new default entry at end of default entries with properties {name:"prefAutoUpdate", contents:prefAutoUpdate}
+	end tell
+	tell user defaults
+		set prefUpdate to contents of default entry "prefUpdate"
+		set prefAutoUpdate to contents of default entry "prefAutoUpdate"
+	end tell
 end launched
 on idle
 	set x to do shell script "ps cax | awk '/java/{print $5}'"
@@ -24,6 +36,3 @@ on idle
 	end if
 	return 1
 end idle
-on should close theObject
-	(*Add your script here.*)
-end should close

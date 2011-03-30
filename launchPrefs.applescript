@@ -8,3 +8,8 @@
 on clicked theObject
 	load nib "prefPane"
 end clicked
+
+(* on clicked theObject
+	tell application "TextEdit" to open "/Applications/Bukkiteer/server_data/server.properties"
+end clicked
+*)

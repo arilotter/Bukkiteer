@@ -29,7 +29,7 @@ Fig. 1: The main window
 ---------------------
 LAUNCHING YOUR SERVER
 ---------------------
-When you start Bukkiteer, you will be presented with a menu (Fig 1.) The "Launch Server" button in the top-center is the primary button you will be using. When clicking this, you will be presented with a dialog that asks if you want to update your server. If this is your first run or you want to update, click yes, but if you just want to start your server (assuming that you have updated at least once), just click no and the server will launch. To stop the server, simply click the "Quit" button located at the bottom-left of the window. Bukkiteer will save your server's state, then stop it.
+When you start Bukkiteer, you will be presented with a menu (Fig 1.) The "Start Server" button in the top-center is the primary button you will be using. When clicking this, you will be presented with a dialog that asks if you want to update your server. If this is your first run or you want to update, click yes, but if you just want to start your server (assuming that you have updated at least once), just click no and the server will launch. To stop the server, simply click the "Stop Server" button located where the "Start Server" button was. Bukkiteer will save your server's state, then stop it.
 
 --------------------------
 ADDING AND GETTING PLUGINS

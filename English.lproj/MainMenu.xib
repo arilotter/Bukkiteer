@@ -12,8 +12,8 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
+			<integer value="445"/>
 			<integer value="280"/>
-			<integer value="446"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -883,15 +883,14 @@
 							<int key="appleScriptScriptScope">0</int>
 							<object class="NSArray" key="appleScriptEventHandlerNames">
 								<bool key="EncodedWithXMLCoder">YES</bool>
-								<string>ShouldClose</string>
 							</object>
 							<string key="appleScriptScriptName">Bukkiteer.applescript</string>
 							<string key="appleScriptObjectName">mainWindow</string>
 						</object>
 					</object>
-					<string>{{340, 609}, {243, 147}}</string>
+					<string>{{309, 616}, {243, 147}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<string>{{340, 609}, {243, 147}}</string>
+					<string>{{309, 616}, {243, 147}}</string>
 					<boolean value="YES"/>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<object class="NSMutableDictionary">

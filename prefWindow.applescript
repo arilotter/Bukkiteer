@@ -5,13 +5,6 @@
 -- Copyright 2011 __MyCompanyName__. All rights reserved.
 
 on opened theObject
-	global prefsLocation
-	global prefsFile
-	global monsters
-	global animals
-	global maxplayers
-	global pvp
-	global spawnprotection
 	set prefsLocation to "/Applications/Bukkiteer/server_data/server.properties"
 	set prefsFile to read prefsLocation
 	set monsters to characters 16 thru -1 of paragraph 5 of prefsFile as string
