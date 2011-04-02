@@ -23,6 +23,7 @@
 				02D60EC0133C187000FAAFFD /* launchServer.applescript in AppleScript */,
 				02D8C99313427C9400F892AB /* prefSave.applescript in AppleScript */,
 				02D8C9A513427CE600F892AB /* prefCancel.applescript in AppleScript */,
+				02C766DC1347AC3A00CCCD19 /* runCommand.applescript in AppleScript */,
 			);
 			isSharedContext = 0;
 			runOnlyForDeploymentPostprocessing = 0;
@@ -39,6 +40,7 @@
 		026B842913295914001CEF6E /* prefPane.xib in Resources */ = {isa = PBXBuildFile; fileRef = 026B842813295914001CEF6E /* prefPane.xib */; };
 		029D5F6C1328779300ED57AC /* findPlugins.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 029D5F6B1328779300ED57AC /* findPlugins.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		02B2889F13345B57005E1740 /* settings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 02B2889E13345B57005E1740 /* settings.plist */; };
+		02C766DC1347AC3A00CCCD19 /* runCommand.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02C766DB1347AC3A00CCCD19 /* runCommand.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		02D60EC0133C187000FAAFFD /* launchServer.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02D60EBF133C187000FAAFFD /* launchServer.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		02D8C99313427C9400F892AB /* prefSave.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02D8C99213427C9400F892AB /* prefSave.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		02D8C9A513427CE600F892AB /* prefCancel.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02D8C9A413427CE600F892AB /* prefCancel.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
@@ -62,6 +64,7 @@
 		026B842813295914001CEF6E /* prefPane.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = prefPane.xib; sourceTree = "<group>"; };
 		029D5F6B1328779300ED57AC /* findPlugins.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = findPlugins.applescript; sourceTree = "<group>"; };
 		02B2889E13345B57005E1740 /* settings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = settings.plist; sourceTree = "<group>"; };
+		02C766DB1347AC3A00CCCD19 /* runCommand.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = runCommand.applescript; sourceTree = "<group>"; };
 		02D60EBF133C187000FAAFFD /* launchServer.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = launchServer.applescript; sourceTree = "<group>"; };
 		02D8C99213427C9400F892AB /* prefSave.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = prefSave.applescript; sourceTree = "<group>"; };
 		02D8C9A413427CE600F892AB /* prefCancel.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = prefCancel.applescript; sourceTree = "<group>"; };
@@ -176,6 +179,7 @@
 				025BCC97132D262B0053EF51 /* Bukkiteer.rtf */,
 				02FF7C761332C7C2006A20C6 /* updateServer.applescript */,
 				02B2889E13345B57005E1740 /* settings.plist */,
+				02C766DB1347AC3A00CCCD19 /* runCommand.applescript */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
