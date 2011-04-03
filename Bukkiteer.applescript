@@ -28,10 +28,10 @@ end launched
 on idle
 	set x to do shell script "ps cax | awk '/java/{print $5}'"
 	if x = "java" then
-		set title of button "launchServer" of window 1 to "Stop Server"
+		set title of button "launchServer" of window "main" to "Stop Server"
 		-- display dialog "Stop"
 	else
-		set title of button "launchServer" of window 1 to "Start Server"
+		set title of button "launchServer" of window "main" to "Start Server"
 		-- display dialog "Start"
 	end if
 	return 1

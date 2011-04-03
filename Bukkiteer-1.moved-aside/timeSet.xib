@@ -12,8 +12,8 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="280"/>
 			<integer value="446"/>
+			<integer value="280"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -210,7 +210,7 @@
 				<int key="NSWindowBacking">2</int>
 				<string key="NSWindowRect">{{196, 336}, {243, 174}}</string>
 				<int key="NSWTFlags">611844096</int>
-				<string key="NSWindowTitle">main</string>
+				<string key="NSWindowTitle">Bukkiteer</string>
 				<string key="NSWindowClass">NSPanel</string>
 				<nil key="NSViewClass"/>
 				<string key="NSWindowContentMaxSize">{1.79769e+308, 1.79769e+308}</string>
@@ -960,7 +960,7 @@
 							<int key="appleScriptScriptScope">0</int>
 							<reference key="appleScriptEventHandlerNames" ref="328754663"/>
 							<string key="appleScriptScriptName">Bukkiteer.applescript</string>
-							<string key="appleScriptObjectName">main</string>
+							<string key="appleScriptObjectName">mainWindow</string>
 						</object>
 					</object>
 					<string>{{309, 589}, {243, 174}}</string>
@@ -1055,7 +1055,7 @@
 								<bool key="EncodedWithXMLCoder">YES</bool>
 								<string>Clicked</string>
 							</object>
-							<string key="appleScriptScriptName">timeNib.applescript</string>
+							<string key="appleScriptScriptName">timeSet.applescript</string>
 							<nil key="appleScriptObjectName"/>
 						</object>
 					</object>

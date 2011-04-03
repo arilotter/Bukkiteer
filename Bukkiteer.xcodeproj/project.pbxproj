@@ -24,6 +24,8 @@
 				02D8C99313427C9400F892AB /* prefSave.applescript in AppleScript */,
 				02D8C9A513427CE600F892AB /* prefCancel.applescript in AppleScript */,
 				02C766DC1347AC3A00CCCD19 /* runCommand.applescript in AppleScript */,
+				025EACAA13488E7A00486D3B /* timeSet.applescript in AppleScript */,
+				025EACBF1348917300486D3B /* timeNib.applescript in AppleScript */,
 			);
 			isSharedContext = 0;
 			runOnlyForDeploymentPostprocessing = 0;
@@ -35,6 +37,9 @@
 		02347E26132BC8DC00F835AA /* launchPrefs.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02347E25132BC8DC00F835AA /* launchPrefs.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		025BCC7F132D24850053EF51 /* prefWindow.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 025BCC7E132D24850053EF51 /* prefWindow.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		025BCC98132D262B0053EF51 /* Bukkiteer.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 025BCC97132D262B0053EF51 /* Bukkiteer.rtf */; };
+		025EACAA13488E7A00486D3B /* timeSet.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 025EACA913488E7A00486D3B /* timeSet.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		025EACBA13488F6200486D3B /* timeSet.xib in Resources */ = {isa = PBXBuildFile; fileRef = 025EACB913488F6200486D3B /* timeSet.xib */; };
+		025EACBF1348917300486D3B /* timeNib.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 025EACBE1348917300486D3B /* timeNib.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		0269795F132724F700177047 /* pluginsFolder.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 0269795E132724F700177047 /* pluginsFolder.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		026979A41327CC0D00177047 /* killOnClose.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 026979A31327CC0D00177047 /* killOnClose.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		026B842913295914001CEF6E /* prefPane.xib in Resources */ = {isa = PBXBuildFile; fileRef = 026B842813295914001CEF6E /* prefPane.xib */; };
@@ -59,6 +64,9 @@
 		02347E25132BC8DC00F835AA /* launchPrefs.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = launchPrefs.applescript; sourceTree = "<group>"; };
 		025BCC7E132D24850053EF51 /* prefWindow.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = prefWindow.applescript; sourceTree = "<group>"; };
 		025BCC97132D262B0053EF51 /* Bukkiteer.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Bukkiteer.rtf; sourceTree = "<group>"; };
+		025EACA913488E7A00486D3B /* timeSet.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = timeSet.applescript; sourceTree = "<group>"; };
+		025EACB913488F6200486D3B /* timeSet.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = timeSet.xib; sourceTree = "<group>"; };
+		025EACBE1348917300486D3B /* timeNib.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = timeNib.applescript; sourceTree = "<group>"; };
 		0269795E132724F700177047 /* pluginsFolder.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = pluginsFolder.applescript; sourceTree = "<group>"; };
 		026979A31327CC0D00177047 /* killOnClose.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = killOnClose.applescript; sourceTree = "<group>"; };
 		026B842813295914001CEF6E /* prefPane.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = prefPane.xib; sourceTree = "<group>"; };
@@ -96,6 +104,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		025EAC9F13488E5F00486D3B /* Time */ = {
+			isa = PBXGroup;
+			children = (
+				025EACBE1348917300486D3B /* timeNib.applescript */,
+				025EACA913488E7A00486D3B /* timeSet.applescript */,
+				025EACB913488F6200486D3B /* timeSet.xib */,
+			);
+			name = Time;
+			sourceTree = "<group>";
+		};
 		026B8440132960EB001CEF6E /* PrefPane */ = {
 			isa = PBXGroup;
 			children = (
@@ -165,6 +183,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				025EAC9F13488E5F00486D3B /* Time */,
 				026B8440132960EB001CEF6E /* PrefPane */,
 				02D9BB7E13287C8200B33B72 /* icon.icns */,
 				60A014C20DBD2AA20071D9A8 /* MainMenu.xib */,
@@ -261,6 +280,7 @@
 				026B842913295914001CEF6E /* prefPane.xib in Resources */,
 				025BCC98132D262B0053EF51 /* Bukkiteer.rtf in Resources */,
 				02B2889F13345B57005E1740 /* settings.plist in Resources */,
+				025EACBA13488F6200486D3B /* timeSet.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
