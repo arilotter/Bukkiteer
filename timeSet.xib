@@ -12,8 +12,8 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="29"/>
 			<integer value="812"/>
+			<integer value="29"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -1293,6 +1293,7 @@
 				<string key="NSWindowTitle">Set Time</string>
 				<string key="NSWindowClass">NSPanel</string>
 				<nil key="NSViewClass"/>
+				<string key="NSWindowContentMaxSize">{1.79769e+308, 1.79769e+308}</string>
 				<object class="NSView" key="NSWindowView" id="207648737">
 					<reference key="NSNextResponder"/>
 					<int key="NSvFlags">256</int>
@@ -3473,11 +3474,13 @@
 					<string>81.IBPluginDependency</string>
 					<string>81.ImportedFromIB2</string>
 					<string>81.editorWindowContentRectSynchronizationRect</string>
+					<string>811.IBAttributePlaceholdersKey</string>
 					<string>811.IBEditorWindowLastContentRect</string>
 					<string>811.IBPluginDependency</string>
 					<string>811.IBWindowTemplateEditedContentRect</string>
 					<string>811.NSWindowTemplate.visibleAtLaunch</string>
 					<string>812.IBPluginDependency</string>
+					<string>815.IBAttributePlaceholdersKey</string>
 					<string>815.IBPluginDependency</string>
 					<string>815.IBViewBoundsToFrameTransform</string>
 					<string>816.IBPluginDependency</string>
@@ -3711,11 +3714,35 @@
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<integer value="1"/>
 					<string>{{323, 672}, {199, 203}}</string>
-					<string>{{154, 806}, {244, 106}}</string>
+					<object class="NSMutableDictionary">
+						<string key="NS.key.0">IBAppleScriptAttributeName</string>
+						<object class="IBAppleScriptInfoAttribute" key="NS.object.0">
+							<string key="name">IBAppleScriptAttributeName</string>
+							<reference key="object" ref="1049049333"/>
+							<int key="appleScriptObjectID">0</int>
+							<int key="appleScriptScriptScope">0</int>
+							<nil key="appleScriptEventHandlerNames"/>
+							<nil key="appleScriptScriptName"/>
+							<string key="appleScriptObjectName">time</string>
+						</object>
+					</object>
+					<string>{{248, 698}, {244, 106}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<string>{{154, 806}, {244, 106}}</string>
+					<string>{{248, 698}, {244, 106}}</string>
 					<boolean value="YES"/>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
+					<object class="NSMutableDictionary">
+						<string key="NS.key.0">IBAppleScriptAttributeName</string>
+						<object class="IBAppleScriptInfoAttribute" key="NS.object.0">
+							<string key="name">IBAppleScriptAttributeName</string>
+							<reference key="object" ref="345958642"/>
+							<int key="appleScriptObjectID">0</int>
+							<int key="appleScriptScriptScope">0</int>
+							<nil key="appleScriptEventHandlerNames"/>
+							<nil key="appleScriptScriptName"/>
+							<string key="appleScriptObjectName">timeSlider</string>
+						</object>
+					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<object class="NSAffineTransform">
 						<bytes key="NSTransformStruct">P4AAAL+AAABClgAAwmwAAA</bytes>

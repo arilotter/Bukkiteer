@@ -12,8 +12,8 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
+			<integer value="445"/>
 			<integer value="280"/>
-			<integer value="446"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -206,11 +206,11 @@
 				<string key="NSName">_NSMainMenu</string>
 			</object>
 			<object class="NSWindowTemplate" id="768044940">
-				<int key="NSWindowStyleMask">8209</int>
+				<int key="NSWindowStyleMask">8213</int>
 				<int key="NSWindowBacking">2</int>
 				<string key="NSWindowRect">{{196, 336}, {243, 174}}</string>
 				<int key="NSWTFlags">611844096</int>
-				<string key="NSWindowTitle">main</string>
+				<string key="NSWindowTitle">Bukkiteer</string>
 				<string key="NSWindowClass">NSPanel</string>
 				<nil key="NSViewClass"/>
 				<string key="NSWindowContentMaxSize">{1.79769e+308, 1.79769e+308}</string>
