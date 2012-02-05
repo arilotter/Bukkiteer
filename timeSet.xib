@@ -12,8 +12,8 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="812"/>
 			<integer value="29"/>
+			<integer value="811"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -3723,7 +3723,7 @@
 							<int key="appleScriptScriptScope">0</int>
 							<nil key="appleScriptEventHandlerNames"/>
 							<nil key="appleScriptScriptName"/>
-							<string key="appleScriptObjectName">time</string>
+							<string key="appleScriptObjectName">timeWindow</string>
 						</object>
 					</object>
 					<string>{{248, 698}, {244, 106}}</string>

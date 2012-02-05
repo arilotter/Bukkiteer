@@ -7,7 +7,7 @@
 
 
 on clicked theObject
-	-- set time
-	set time to (contents of slider "timeSlider" of window 1)
+	-- set time 
+	set time to (contents of slider "timeSlider" of window 2)
 	display dialog time
 end clicked
