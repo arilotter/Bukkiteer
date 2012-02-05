@@ -35,7 +35,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 37";
 		rLen = 0;
-		rLoc = 1285;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 1318;
 		vrLoc = 0;
@@ -55,7 +55,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1405;
 		vrLoc = 0;
@@ -75,7 +75,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1403;
 		vrLoc = 0;
@@ -95,7 +95,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1405;
 		vrLoc = 0;
@@ -115,7 +115,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1391;
 		vrLoc = 0;
@@ -135,7 +135,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1349;
 		vrLoc = 0;
@@ -155,7 +155,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 38";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1287;
 		vrLoc = 0;
@@ -175,7 +175,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 38";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1281;
 		vrLoc = 0;
@@ -214,7 +214,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 0;
-		rLoc = 36;
+		rLoc = 28;
 		rType = 1;
 	};
 	020D5C7914DE232C00414B09 /* PBXTextBookmark */ = {
@@ -222,7 +222,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 911;
 		vrLoc = 187;
@@ -232,7 +232,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1334;
 		vrLoc = 0;
@@ -242,7 +242,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 909;
 		vrLoc = 289;
@@ -252,7 +252,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1352;
 		vrLoc = 0;
@@ -262,7 +262,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 924;
 		vrLoc = 261;
@@ -272,7 +272,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1339;
 		vrLoc = 0;
@@ -286,7 +286,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 979;
 		vrLoc = 209;
@@ -296,7 +296,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 19";
 		rLen = 0;
-		rLoc = 651;
+		rLoc = 241;
 		rType = 0;
 		vrLen = 1380;
 		vrLoc = 0;
@@ -306,7 +306,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 978;
 		vrLoc = 209;
@@ -316,7 +316,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 19";
 		rLen = 0;
-		rLoc = 651;
+		rLoc = 241;
 		rType = 0;
 		vrLen = 1379;
 		vrLoc = 0;
@@ -326,7 +326,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 37";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 939;
 		vrLoc = 187;
@@ -335,7 +335,7 @@
 		isa = PBXTextBookmark;
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 1";
-		rLen = 1302;
+		rLen = 892;
 		rLoc = 0;
 		rType = 0;
 		vrLen = 1317;
@@ -346,7 +346,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 37";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 940;
 		vrLoc = 187;
@@ -355,7 +355,7 @@
 		isa = PBXTextBookmark;
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 1";
-		rLen = 1302;
+		rLen = 892;
 		rLoc = 0;
 		rType = 0;
 		vrLen = 1318;
@@ -366,7 +366,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 819;
 		vrLoc = 419;
@@ -380,7 +380,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 41";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 876;
 		vrLoc = 187;
@@ -404,7 +404,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 807;
 		vrLoc = 187;
@@ -428,7 +428,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 763;
 		vrLoc = 187;
@@ -452,7 +452,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 257;
@@ -472,7 +472,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1365;
 		vrLoc = 0;
@@ -482,7 +482,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 257;
@@ -492,7 +492,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1363;
 		vrLoc = 0;
@@ -502,7 +502,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 862;
 		vrLoc = 187;
@@ -512,7 +512,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1357;
 		vrLoc = 0;
@@ -522,7 +522,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 187;
@@ -532,7 +532,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -542,7 +542,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 187;
@@ -552,7 +552,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1331;
 		vrLoc = 0;
@@ -562,7 +562,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 187;
@@ -572,7 +572,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 39";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1352;
 		vrLoc = 0;
@@ -586,7 +586,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 38";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 891;
 		vrLoc = 187;
@@ -599,6 +599,30 @@
 		rLoc = 1014;
 		rType = 0;
 		vrLen = 1014;
+		vrLoc = 0;
+	};
+	020D5CF714DE3A3000414B09 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
+	};
+	020D5CFB14DF2ABB00414B09 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
+		name = "Bukkiteer.applescript: 20";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 919;
+		vrLoc = 187;
+	};
+	020D5CFD14DF2ABB00414B09 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
+		name = "Bukkiteer.applescript: 30";
+		rLen = 0;
+		rLoc = 892;
+		rType = 0;
+		vrLen = 892;
 		vrLoc = 0;
 	};
 	02136EED135134CC005CE441 /* PBXTextBookmark */ = {
@@ -723,7 +747,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 43";
 		rLen = 0;
-		rLoc = 1292;
+		rLoc = 882;
 		rType = 0;
 		vrLen = 903;
 		vrLoc = 410;
@@ -856,7 +880,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 40";
 		rLen = 0;
-		rLoc = 1302;
+		rLoc = 892;
 		rType = 0;
 		vrLen = 1318;
 		vrLoc = 0;
@@ -876,7 +900,7 @@
 		fRef = DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */;
 		name = "Bukkiteer.applescript: 37";
 		rLen = 0;
-		rLoc = 1285;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 1318;
 		vrLoc = 0;
@@ -1257,6 +1281,9 @@
 			020D5CE414DE285A00414B09 /* PBXBookmark */ = 020D5CE414DE285A00414B09 /* PBXBookmark */;
 			020D5CE814DE288800414B09 /* PBXTextBookmark */ = 020D5CE814DE288800414B09 /* PBXTextBookmark */;
 			020D5CEA14DE288800414B09 /* PBXTextBookmark */ = 020D5CEA14DE288800414B09 /* PBXTextBookmark */;
+			020D5CF714DE3A3000414B09 /* PBXBookmark */ = 020D5CF714DE3A3000414B09 /* PBXBookmark */;
+			020D5CFB14DF2ABB00414B09 /* PBXTextBookmark */ = 020D5CFB14DF2ABB00414B09 /* PBXTextBookmark */;
+			020D5CFD14DF2ABB00414B09 /* PBXTextBookmark */ = 020D5CFD14DF2ABB00414B09 /* PBXTextBookmark */;
 			02136EED135134CC005CE441 = 02136EED135134CC005CE441 /* PBXTextBookmark */;
 			022E3D6B134C989F00AF4942 = 022E3D6B134C989F00AF4942 /* PBXBookmark */;
 			02347E47132BCE9A00F835AA = 02347E47132BCE9A00F835AA /* PBXTextBookmark */;
@@ -1300,9 +1327,9 @@
 	};
 	DA206CF3015C4E8B03C91932 /* Bukkiteer.applescript */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1059, 560}}";
-			sepNavSelRange = "{664, 0}";
-			sepNavVisRange = "{187, 919}";
+			sepNavIntBoundsRect = "{{0, 0}, {1621, 801}}";
+			sepNavSelRange = "{892, 0}";
+			sepNavVisRange = "{0, 892}";
 			sepNavWindowFrame = "{{0, 99}, {1680, 929}}";
 		};
 	};

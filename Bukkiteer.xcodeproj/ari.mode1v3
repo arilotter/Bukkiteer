@@ -202,24 +202,24 @@
 			<key>Content</key>
 			<dict>
 				<key>PBXProjectModuleGUID</key>
-				<string>020D5CE514DE285A00414B09</string>
+				<string>020D5CF814DE3A3000414B09</string>
 				<key>PBXProjectModuleLabel</key>
-				<string>launchServer.applescript</string>
+				<string>Bukkiteer.applescript</string>
 				<key>PBXSplitModuleInNavigatorKey</key>
 				<dict>
 					<key>Split0</key>
 					<dict>
 						<key>PBXProjectModuleGUID</key>
-						<string>020D5CE914DE288800414B09</string>
+						<string>020D5CFC14DF2ABB00414B09</string>
 						<key>PBXProjectModuleLabel</key>
-						<string>launchServer.applescript</string>
+						<string>Bukkiteer.applescript</string>
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>020D5CEA14DE288800414B09</string>
+						<string>020D5CFD14DF2ABB00414B09</string>
 						<key>history</key>
 						<array>
-							<string>020D5CE414DE285A00414B09</string>
+							<string>020D5CF714DE3A3000414B09</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -231,11 +231,11 @@
 			<key>Geometry</key>
 			<dict>
 				<key>Frame</key>
-				<string>{{0, 20}, {750, 461}}</string>
+				<string>{{0, 20}, {1680, 832}}</string>
 				<key>PBXModuleWindowStatusBarHidden2</key>
 				<false/>
 				<key>RubberWindowFrame</key>
-				<string>258 526 750 502 0 0 1680 1028 </string>
+				<string>0 155 1680 873 0 0 1680 1028 </string>
 			</dict>
 		</dict>
 	</array>
@@ -310,14 +310,13 @@
 								<string>080E96DDFE201D6D7F000001</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>025EAC9F13488E5F00486D3B</string>
-								<string>026B8440132960EB001CEF6E</string>
 								<string>1C37FAAC04509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>18</integer>
-									<integer>3</integer>
+									<integer>2</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -357,19 +356,13 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Bukkiteer.applescript</string>
+								<string>&lt;No Editor&gt;</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
 									<dict>
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
-										<key>PBXProjectModuleLabel</key>
-										<string>Bukkiteer.applescript</string>
-										<key>_historyCapacity</key>
-										<integer>0</integer>
-										<key>bookmark</key>
-										<string>020D5CE814DE288800414B09</string>
 										<key>history</key>
 										<array>
 											<string>02D9BB8313287CA200B33B72</string>
@@ -394,7 +387,7 @@
 											<string>020D5C7514DE232C00414B09</string>
 											<string>020D5C7614DE232C00414B09</string>
 											<string>020D5C7714DE232C00414B09</string>
-											<string>020D5C7814DE232C00414B09</string>
+											<string>020D5CFB14DF2ABB00414B09</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -569,7 +562,7 @@
 	<key>PerspectivesBarVisible</key>
 	<false/>
 	<key>PinnedNavigatorIdentifier</key>
-	<string>020D5CE514DE285A00414B09</string>
+	<string>020D5CF814DE3A3000414B09</string>
 	<key>ShelfIsVisible</key>
 	<false/>
 	<key>SourceDescription</key>
@@ -594,13 +587,12 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>020D5CEB14DE288800414B09</string>
 		<string>020D5C6A14DE224900414B09</string>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>0269794C1326E28A00177047</string>
 		<string>/Volumes/Data and home/Users/ari/Documents/Bukkiteer/Bukkiteer.xcodeproj</string>
-		<string>020D5CE514DE285A00414B09</string>
+		<string>020D5CF814DE3A3000414B09</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 155 1680 873 0 0 1680 1028 </string>
