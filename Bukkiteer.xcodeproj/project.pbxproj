@@ -20,9 +20,8 @@
 				02FF7C771332C7C2006A20C6 /* updateServer.applescript in AppleScript */,
 				02D60EC0133C187000FAAFFD /* launchServer.applescript in AppleScript */,
 				02C766DC1347AC3A00CCCD19 /* runCommand.applescript in AppleScript */,
-				025EACAA13488E7A00486D3B /* timeSet.applescript in AppleScript */,
-				025EACBF1348917300486D3B /* timeNib.applescript in AppleScript */,
 				0260FBFB14D8D44B006C851F /* startServer.applescript in AppleScript */,
+				020D5D0814DFF8BF00414B09 /* serverPrefs.applescript in AppleScript */,
 			);
 			isSharedContext = 0;
 			runOnlyForDeploymentPostprocessing = 0;
@@ -31,12 +30,11 @@
 
 /* Begin PBXBuildFile section */
 		020D5CF614DE39EE00414B09 /* prefPane.xib in Resources */ = {isa = PBXBuildFile; fileRef = 020D5CF514DE39EE00414B09 /* prefPane.xib */; };
+		020D5D0814DFF8BF00414B09 /* serverPrefs.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 020D5D0714DFF8BF00414B09 /* serverPrefs.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		020D5D6F14E0008900414B09 /* Go.png in Resources */ = {isa = PBXBuildFile; fileRef = 020D5D6E14E0008900414B09 /* Go.png */; };
 		022E3D62134C984500AF4942 /* Credits.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 022E3D61134C984500AF4942 /* Credits.rtfd */; };
 		02347E26132BC8DC00F835AA /* launchPrefs.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 02347E25132BC8DC00F835AA /* launchPrefs.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		025BCC98132D262B0053EF51 /* Bukkiteer.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 025BCC97132D262B0053EF51 /* Bukkiteer.rtf */; };
-		025EACAA13488E7A00486D3B /* timeSet.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 025EACA913488E7A00486D3B /* timeSet.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
-		025EACBA13488F6200486D3B /* timeSet.xib in Resources */ = {isa = PBXBuildFile; fileRef = 025EACB913488F6200486D3B /* timeSet.xib */; };
-		025EACBF1348917300486D3B /* timeNib.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 025EACBE1348917300486D3B /* timeNib.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
 		0260FB6814D85F94006C851F /* StartButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0260FB6714D85F94006C851F /* StartButton.png */; };
 		0260FBBA14D86630006C851F /* StopButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0260FBB914D86630006C851F /* StopButton.png */; };
 		0260FBFB14D8D44B006C851F /* startServer.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 0260FBFA14D8D44B006C851F /* startServer.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
@@ -58,12 +56,11 @@
 
 /* Begin PBXFileReference section */
 		020D5CF514DE39EE00414B09 /* prefPane.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = prefPane.xib; sourceTree = "<group>"; };
+		020D5D0714DFF8BF00414B09 /* serverPrefs.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = serverPrefs.applescript; sourceTree = "<group>"; };
+		020D5D6E14E0008900414B09 /* Go.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Go.png; sourceTree = "<group>"; };
 		022E3D61134C984500AF4942 /* Credits.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = Credits.rtfd; sourceTree = "<group>"; };
 		02347E25132BC8DC00F835AA /* launchPrefs.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = launchPrefs.applescript; sourceTree = "<group>"; };
 		025BCC97132D262B0053EF51 /* Bukkiteer.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Bukkiteer.rtf; sourceTree = "<group>"; };
-		025EACA913488E7A00486D3B /* timeSet.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = timeSet.applescript; sourceTree = "<group>"; };
-		025EACB913488F6200486D3B /* timeSet.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = timeSet.xib; sourceTree = "<group>"; };
-		025EACBE1348917300486D3B /* timeNib.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = timeNib.applescript; sourceTree = "<group>"; };
 		0260FB6714D85F94006C851F /* StartButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartButton.png; sourceTree = "<group>"; };
 		0260FBB914D86630006C851F /* StopButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StopButton.png; sourceTree = "<group>"; };
 		0260FBFA14D8D44B006C851F /* startServer.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = startServer.applescript; sourceTree = "<group>"; };
@@ -101,16 +98,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		025EAC9F13488E5F00486D3B /* Time */ = {
-			isa = PBXGroup;
-			children = (
-				025EACBE1348917300486D3B /* timeNib.applescript */,
-				025EACA913488E7A00486D3B /* timeSet.applescript */,
-				025EACB913488F6200486D3B /* timeSet.xib */,
-			);
-			name = Time;
-			sourceTree = "<group>";
-		};
 		080E96DDFE201D6D7F000001 /* Scripts */ = {
 			isa = PBXGroup;
 			children = (
@@ -169,7 +156,6 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				025EAC9F13488E5F00486D3B /* Time */,
 				02D9BB7E13287C8200B33B72 /* icon.icns */,
 				60A014C20DBD2AA20071D9A8 /* MainMenu.xib */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
@@ -178,9 +164,11 @@
 				02D60EBF133C187000FAAFFD /* launchServer.applescript */,
 				026979A31327CC0D00177047 /* killOnClose.applescript */,
 				029D5F6B1328779300ED57AC /* findPlugins.applescript */,
+				020D5D0714DFF8BF00414B09 /* serverPrefs.applescript */,
 				02347E25132BC8DC00F835AA /* launchPrefs.applescript */,
 				0260FB6714D85F94006C851F /* StartButton.png */,
 				0260FBB914D86630006C851F /* StopButton.png */,
+				020D5D6E14E0008900414B09 /* Go.png */,
 				025BCC97132D262B0053EF51 /* Bukkiteer.rtf */,
 				020D5CF514DE39EE00414B09 /* prefPane.xib */,
 				022E3D61134C984500AF4942 /* Credits.rtfd */,
@@ -268,11 +256,11 @@
 				02D9BB7F13287C8200B33B72 /* icon.icns in Resources */,
 				025BCC98132D262B0053EF51 /* Bukkiteer.rtf in Resources */,
 				02B2889F13345B57005E1740 /* settings.plist in Resources */,
-				025EACBA13488F6200486D3B /* timeSet.xib in Resources */,
 				022E3D62134C984500AF4942 /* Credits.rtfd in Resources */,
 				0260FB6814D85F94006C851F /* StartButton.png in Resources */,
 				0260FBBA14D86630006C851F /* StopButton.png in Resources */,
 				020D5CF614DE39EE00414B09 /* prefPane.xib in Resources */,
+				020D5D6F14E0008900414B09 /* Go.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
